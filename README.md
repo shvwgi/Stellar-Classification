@@ -4,7 +4,7 @@
 This project classifies stellar objects into three categories (**Galaxy, Star, Quasar**) using sensor data. I compared the performance of three models: **LightGBM**, **Random Forest**, and **XGBoost**.
 
 ## The Data
-* **Source:** [[https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17]]
+* **Source:** https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
 * **Size:** 100,000 rows, 17 features (only used 8 features in training).
 * **Preprocessing:** Standard Scaling applied; target labels encoded as integers.
 
